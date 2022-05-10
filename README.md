@@ -1,6 +1,26 @@
 # Jupyter Notebook Project Boilerplate
 A starter boilerplate jupyter notebook for data analysis and machine learning including library imports and basic exploratory data analysis steps.
 
+## Boiletplate Contents
+* Project Header
+* Libraries import
+* Exploratory Data Analysis
+   - Data Shape
+   - Data Information
+   - Unique Values
+   - Basic statistics
+   - NaN values check, drop or replace
+   - Duplicates check, drop or replace
+   - Filter new dataframe
+   - Remove unused columns
+   - Rename columns
+* Visualization
+   - Histograms
+   - Scatter matrix
+   - Bar chart code
+* Linear Regression 
+
+
 ## How to use
 * Download notebook
 * Open in JupyterLab, Jupyter Notebook
