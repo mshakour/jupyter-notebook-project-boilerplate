@@ -22,7 +22,7 @@ A starter boilerplate jupyter notebook for data analysis and machine learning in
 
 
 ## How to use
-* Download notebook [jupyter-notebook-project-boilerplate.ipynb](https://github.com/mshakour/jupyter-notebook-project-boilerplate/blob/main/jupyter-notebook-project-boilerplate.ipynb)
+* Download & uncompress notebook [jupyter-notebook-project-boilerplate.ipynb](https://github.com/mshakour/jupyter-notebook-project-boilerplate/raw/main/jupyter-notebook-project-boilerplate.zip)
 * Open in JupyterLab, Jupyter Notebook
 * Define dataset path `DATASET_PATH`
 * Uncomment needed sections
